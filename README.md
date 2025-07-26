@@ -35,4 +35,6 @@ The documentation includes a wide range of test cases:
 
 Simulation screenshots and logic diagrams are provided for validation.
 
-## ❗ NOTE: This uses a gated clock, which is not advisable. During checking, instructor found an alternate solution with JK Flip Flops connected to the CKA of counter and CLK of Shift Register.
+## ❗ NOTE: 
+
+This uses a gated clock, which is not advisable. During checking, instructor found an alternate solution with JK Flip Flops connected to the CKA of counter and CLK of Shift Register.
