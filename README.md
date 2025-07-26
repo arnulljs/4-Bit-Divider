@@ -1,4 +1,4 @@
-# 🔢 4-Bit Binary Divider (Restoring Division Logic)
+# 🔢 4-Bit Binary Divider (Repeated Subtraction)
 
 This project implements a **4-bit binary divider** using **repeated subtraction** logic in a digital circuit, built using basic TTL components like multiplexers, shift registers, full adders, counters, and 7-segment displays.
 This project was made in fulfillment of CPE 2301 Logic Circuits and Design Comprehensive Design Project output. 
